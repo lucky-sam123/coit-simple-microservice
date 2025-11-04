@@ -46,14 +46,14 @@
 	<distributionManagement>
 		<repository>
 			<id>coit-backend1-releas</id>
-			<name>demo-app-maven-repo</name>
-			<url>http://43.205.228.45:8081/repository/demo-app-maven-repo/</url>
+			<name>coit-backend1</name>
+			<url>http://54.210.86.124:8081/repository/coit-backend1/</url>
 		</repository>
-<!-- 		<snapshotRepository>
+		<snapshotRepository>
 			<id>coit-backend1-snapshot</id>
 			<name>coit-backend1-snapshot</name>
-			<url>http://3.108.55.145:8081/repository/coit-backend1-snapshot/</url>
-		</snapshotRepository> -->
+			<url>http://54.210.86.124:8081/repository/coit-backend1-snapshot/</url>
+		</snapshotRepository> 
 	</distributionManagement>
 
 </project>
